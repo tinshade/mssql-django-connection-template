@@ -1,0 +1,1 @@
+# mssql-django-connection-template
